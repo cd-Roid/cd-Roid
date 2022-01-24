@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cd-Roid
 - 👀 I’m interested in everything on the Web
-- 🌱 I’m currently learning Gatsby.js 
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/george-iyawe-647238203/) 
 
