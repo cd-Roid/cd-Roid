@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cd-Roid
+- 👋 Hi, I’m George Iyawe
 - 👀 I’m interested in everything on the Web
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me:
