@@ -1,8 +1,4 @@
-- 👋 Hi, I’m George Iyawe
-- 👀 I’m interested in everything on the Web
-- 🌱 I’m currently learning TypeScript
-- 📫 How to reach me:
-    - [LinkedIn](https://www.linkedin.com/in/george-iyawe-647238203/) 
+- I make the code go brrrrrrrrrr
 
 <!---
 cd-Roid/cd-Roid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
